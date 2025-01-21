@@ -19,7 +19,7 @@ def main():
     freq = [0] * len(one)
     count = 0
 
-    # here
+    # count frequency of occurences of the same value
     for x in range(len(one)):
         for y in range(len(two)):
             if two[y] == one[x]:
