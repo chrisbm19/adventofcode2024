@@ -1,6 +1,3 @@
-# 1. Load reports into list - done
-# 2. convert reports into ints
-# 3 Loop reports, get length of each index, check safe vs unsafe, update safe counter
 def main():
     # declare variables
     reports = []
