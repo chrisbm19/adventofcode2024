@@ -1,3 +1,4 @@
 # adventofcode2024
 * Day 1 - Done
-* Day 2 - In progress
+* Day 2 - Done
+* Day 3 - Done
